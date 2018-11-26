@@ -6,7 +6,7 @@ image: /img/daily-show-plot.png
 
 As a learning experience, I recreated this data visualization from FiveThirtyEight's article, [Every Guest Jon Stewart Ever Had On ‘The Daily Show’](https://fivethirtyeight.com/features/every-guest-jon-stewart-ever-had-on-the-daily-show/).
 
-![](/img/daily-show-plot.png)
+<img src="/img/daily-show-plot.png" width="500">
 
 I learned about:
 - Exploratory vs Explanatory visualization
