@@ -14,7 +14,7 @@ I was first introduced to the world of data during my time in the MSIS program. 
 #### Cleaning and Visualizing
 I prototype in Jupyter Notebook, with pandas to wrangle, matplotlib and seaborn to visualize, and scikit-learn to model.
 
-#### Healthcare
+#### Healthcare Experience
 Throughout my career in the healthcare field I have been exposed to some very interesting, yet also complex, data. I believe that experience will continue to allow me to analyze and discover many data science solutions that would benefit any company.
 
 ### Leadership
