@@ -40,8 +40,8 @@ Another complication is determining what will be selling once your book is publi
 2. Determine what trends are being shown in the data
 3. Make visualization explanatory
 
-### Conclusion
+### Summarize
 
-1. Write up a summary of what was found
+1. Write up a conclustion of what was found
 2. Edit summary until it is clear and concise
 3. Publish to blog/portfolio
