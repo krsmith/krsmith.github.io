@@ -1,4 +1,8 @@
-## What makes a NY Times Best Seller?
+---
+title: What makes a NY Times Best Seller?
+subtitle: Project Proposal
+image:
+---
 
 Aspiring writers often struggle to figure out the best way to create a career doing what they love. Using the NY Times best sellers list, I want to create visualizations that will help understand trends over time. Authors will be able to use this information to determine genre, themes, and target publishers.
 
